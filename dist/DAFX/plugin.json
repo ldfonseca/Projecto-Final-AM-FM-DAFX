@@ -1,0 +1,47 @@
+{
+  "slug": "DAFX",
+  "name": "DAFX",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "DAFX",
+  "author": "LD",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "AMFMAnalyzer",
+      "name": "AMFMAnalyzer",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "HybridIfer",
+      "name": "HybridIfer",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "WahIfer",
+      "name": "WahIfer",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "OctIfer",
+      "name": "OctIfer",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "ChorIfer",
+      "name": "ChorIfer",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
